@@ -1,4 +1,4 @@
-10
+11
 Zane Lyons 2 3 4
 Kira Cabrera 1 2 3
 Evan Marks 4 4 5
@@ -9,3 +9,4 @@ Serena Ferguson 3 4 5
 Anabella Faulkner 2 3 4
 Erika Collier 3 4 5
 Tamia Acevedo 2 1 2
+Vasya Petrov 2 3 5
